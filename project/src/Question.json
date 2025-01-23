@@ -1,0 +1,152 @@
+[
+  {
+    "level": 1,
+    "questions": [
+      {
+        "question": "Who won the IPL 2020?",
+        "options": ["Mumbai Indians", "Delhi Capitals", "Royal Challengers Bangalore", "Chennai Super Kings"],
+        "correctOption": "Mumbai Indians"
+      },
+      {
+        "question": "Which team has won the most IPL titles?",
+        "options": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Delhi Capitals"],
+        "correctOption": "Mumbai Indians"
+      },
+      {
+        "question": "Who was the Orange Cap winner in IPL 2020?",
+        "options": ["KL Rahul", "David Warner", "Shikhar Dhawan", "Virat Kohli"],
+        "correctOption": "KL Rahul"
+      },
+      {
+        "question": "Which stadium hosted the IPL 2020 final?",
+        "options": ["Wankhede Stadium", "Dubai International Stadium", "Eden Gardens", "M. Chinnaswamy Stadium"],
+        "correctOption": "Dubai International Stadium"
+      },
+      {
+        "question": "Who is known as the 'Captain Cool' of IPL?",
+        "options": ["MS Dhoni", "Virat Kohli", "Rohit Sharma", "Shane Warne"],
+        "correctOption": "MS Dhoni"
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "questions": [
+      {
+        "question": "Who is known as the 'King of Tamil Cinema'?",
+        "options": ["Rajinikanth", "Vijay", "Ajith", "Suriya"],
+        "correctOption": "Rajinikanth"
+      },
+      {
+        "question": "Which Tamil song became a huge hit in 2019?",
+        "options": ["Vaathi Coming", "Aalaporan Thamizhan", "Rowdy Baby", "Kundakka Mandakka"],
+        "correctOption": "Vaathi Coming"
+      },
+      {
+        "question": "Who is the composer of the music for the movie 'Kabali'?",
+        "options": ["A. R. Rahman", "Anirudh Ravichander", "Devi Sri Prasad", "Yuvan Shankar Raja"],
+        "correctOption": "Santhosh Narayanan"
+      },
+      {
+        "question": "Which Tamil music album was released for the film 'Master'?",
+        "options": ["Vikram Vedha", "Maanagaram", "Master", "Viswasam"],
+        "correctOption": "Master"
+      },
+      {
+        "question": "Who is known for the iconic 'Enna Solla Pogirai' song?",
+        "options": ["Hariharan", "S. P. Balasubrahmanyam", "K. S. Chithra", "Unni Menon"],
+        "correctOption": "S. P. Balasubrahmanyam"
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "questions": [
+      {
+        "question": "What is 5 + 3?",
+        "options": ["5", "8", "10", "15"],
+        "correctOption": "8"
+      },
+      {
+        "question": "What is 12 - 7?",
+        "options": ["3", "5", "7", "8"],
+        "correctOption": "5"
+      },
+      {
+        "question": "What is 6 x 4?",
+        "options": ["20", "24", "30", "36"],
+        "correctOption": "24"
+      },
+      {
+        "question": "What is 15 ÷ 3?",
+        "options": ["5", "6", "7", "8"],
+        "correctOption": "5"
+      },
+      {
+        "question": "What is 9 + 6?",
+        "options": ["13", "14", "15", "16"],
+        "correctOption": "15"
+      }
+    ]
+  },
+  {
+    "level": 4,
+    "questions": [
+      {
+        "question": "Which Indian dish is made from fermented rice and lentils?",
+        "options": ["Dosa", "Biryani", "Samosa", "Chole Bhature"],
+        "correctOption": "Dosa"
+      },
+      {
+        "question": "Which popular Indian food is made with basmati rice, meat, and spices?",
+        "options": ["Biryani", "Pani Puri", "Kachori", "Roti"],
+        "correctOption": "Biryani"
+      },
+      {
+        "question": "Which state is known for its 'Pakhala Bhata' dish?",
+        "options": ["Odisha", "Kolkata", "Maharashtra", "Kerala"],
+        "correctOption": "Odisha"
+      },
+      {
+        "question": "Which is the main ingredient in 'Aloo Gobi'?",
+        "options": ["Potato", "Cauliflower", "Cabbage", "Spinach"],
+        "correctOption": "Cauliflower"
+      },
+      {
+        "question": "Which Indian dessert is made with condensed milk and saffron?",
+        "options": ["Gulab Jamun", "Rasgulla", "Kulfi", "Kheer"],
+        "correctOption": "Kheer"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "questions": [
+      {
+        "question": "Which social media platform is known for its 140-character limit?",
+        "options": ["Twitter", "Instagram", "Facebook", "Snapchat"],
+        "correctOption": "Twitter"
+      },
+      {
+        "question": "Which app is used for video sharing and is owned by Google?",
+        "options": ["TikTok", "Vimeo", "YouTube", "Facebook"],
+        "correctOption": "YouTube"
+      },
+      {
+        "question": "Which social media platform allows users to post photos and short videos with filters?",
+        "options": ["Facebook", "Instagram", "Snapchat", "Twitter"],
+        "correctOption": "Instagram"
+      },
+      {
+        "question": "Which platform is known for its professional networking?",
+        "options": ["Twitter", "Instagram", "LinkedIn", "Snapchat"],
+        "correctOption": "LinkedIn"
+      },
+      {
+        "question": "Which social media app is widely used for short video content and challenges?",
+        "options": ["Instagram", "Facebook", "TikTok", "WhatsApp"],
+        "correctOption": "TikTok"
+      }
+    ]
+  }
+]

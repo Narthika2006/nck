@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "sound": "^3.1.0",
+    "use": "^3.1.1",
+    "use-sound": "^4.0.3"
+  }
+}
